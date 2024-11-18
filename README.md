@@ -1,6 +1,6 @@
-#Tax Calculator
+# Tax Calculator
 
-###This is a tax calculator
+### This is a tax calculator
 
 **Este texto esta en negrita**
 
